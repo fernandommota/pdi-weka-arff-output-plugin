@@ -9,7 +9,6 @@ testdata.log
 testdata.properties
 testdata.script
 .classpath
-.project
 .DS_Store
 projects/
 plugins/
